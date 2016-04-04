@@ -1,0 +1,24 @@
+#fuera {
+	border: 20px solid purple;
+	background-color: Bisque;
+	color: blue;
+	width: 850px;
+	height: 112px;
+	padding: 10px 10px 20px 10px;
+	margin: auto;
+	
+}
+
+#dentro {
+	border: 1px dashed black;
+	background-color:white;
+	color: blue;
+	width: 800px;
+	height: 40px;
+	margin: 20px 30px 10px 40px;
+	
+}
+p {
+	
+	text-align: center;
+}
